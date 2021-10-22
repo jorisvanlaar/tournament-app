@@ -1,0 +1,76 @@
+C:\Users\joris\Documents\Visual Studio 2019\Projects\TournamentApp\TournamentUI\bin\Debug\TournamentUI.exe.config
+C:\Users\joris\Documents\Visual Studio 2019\Projects\TournamentApp\TournamentUI\bin\Debug\TournamentUI.exe
+C:\Users\joris\Documents\Visual Studio 2019\Projects\TournamentApp\TournamentUI\bin\Debug\TournamentUI.pdb
+C:\Users\joris\Documents\Visual Studio 2019\Projects\TournamentApp\TournamentUI\bin\Debug\Dapper.dll
+C:\Users\joris\Documents\Visual Studio 2019\Projects\TournamentApp\TournamentUI\bin\Debug\Microsoft.IdentityModel.Logging.dll
+C:\Users\joris\Documents\Visual Studio 2019\Projects\TournamentApp\TournamentUI\bin\Debug\Microsoft.IdentityModel.Tokens.dll
+C:\Users\joris\Documents\Visual Studio 2019\Projects\TournamentApp\TournamentUI\bin\Debug\Newtonsoft.Json.dll
+C:\Users\joris\Documents\Visual Studio 2019\Projects\TournamentApp\TournamentUI\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\joris\Documents\Visual Studio 2019\Projects\TournamentApp\TournamentUI\bin\Debug\System.Data.SqlClient.dll
+C:\Users\joris\Documents\Visual Studio 2019\Projects\TournamentApp\TournamentUI\bin\Debug\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\joris\Documents\Visual Studio 2019\Projects\TournamentApp\TournamentUI\bin\Debug\System.Security.AccessControl.dll
+C:\Users\joris\Documents\Visual Studio 2019\Projects\TournamentApp\TournamentUI\bin\Debug\System.Security.Permissions.dll
+C:\Users\joris\Documents\Visual Studio 2019\Projects\TournamentApp\TournamentUI\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\joris\Documents\Visual Studio 2019\Projects\TournamentApp\TournamentUI\bin\Debug\TournamentLibrary.dll
+C:\Users\joris\Documents\Visual Studio 2019\Projects\TournamentApp\TournamentUI\bin\Debug\Twilio.dll
+C:\Users\joris\Documents\Visual Studio 2019\Projects\TournamentApp\TournamentUI\bin\Debug\TournamentLibrary.pdb
+C:\Users\joris\Documents\Visual Studio 2019\Projects\TournamentApp\TournamentUI\bin\Debug\Dapper.xml
+C:\Users\joris\Documents\Visual Studio 2019\Projects\TournamentApp\TournamentUI\bin\Debug\Microsoft.IdentityModel.Tokens.xml
+C:\Users\joris\Documents\Visual Studio 2019\Projects\TournamentApp\TournamentUI\bin\Debug\Newtonsoft.Json.xml
+C:\Users\joris\Documents\Visual Studio 2019\Projects\TournamentApp\TournamentUI\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\joris\Documents\Visual Studio 2019\Projects\TournamentApp\TournamentUI\bin\Debug\System.Data.SqlClient.xml
+C:\Users\joris\Documents\Visual Studio 2019\Projects\TournamentApp\TournamentUI\bin\Debug\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\joris\Documents\Visual Studio 2019\Projects\TournamentApp\TournamentUI\bin\Debug\System.Security.AccessControl.xml
+C:\Users\joris\Documents\Visual Studio 2019\Projects\TournamentApp\TournamentUI\bin\Debug\System.Security.Permissions.xml
+C:\Users\joris\Documents\Visual Studio 2019\Projects\TournamentApp\TournamentUI\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\joris\Documents\Visual Studio 2019\Projects\TournamentApp\TournamentUI\bin\Debug\Twilio.xml
+C:\Users\joris\Documents\Visual Studio 2019\Projects\TournamentApp\TournamentUI\obj\Debug\TournamentUI.csproj.AssemblyReference.cache
+C:\Users\joris\Documents\Visual Studio 2019\Projects\TournamentApp\TournamentUI\obj\Debug\TournamentUI.CreatePrizeForm.resources
+C:\Users\joris\Documents\Visual Studio 2019\Projects\TournamentApp\TournamentUI\obj\Debug\TournamentUI.CreateTeamForm.resources
+C:\Users\joris\Documents\Visual Studio 2019\Projects\TournamentApp\TournamentUI\obj\Debug\TournamentUI.CreateTournamentForm.resources
+C:\Users\joris\Documents\Visual Studio 2019\Projects\TournamentApp\TournamentUI\obj\Debug\TournamentUI.Properties.Resources.resources
+C:\Users\joris\Documents\Visual Studio 2019\Projects\TournamentApp\TournamentUI\obj\Debug\TournamentUI.TournamentDashboardForm.resources
+C:\Users\joris\Documents\Visual Studio 2019\Projects\TournamentApp\TournamentUI\obj\Debug\TournamentUI.TournamentViewerForm.resources
+C:\Users\joris\Documents\Visual Studio 2019\Projects\TournamentApp\TournamentUI\obj\Debug\TournamentUI.csproj.GenerateResource.cache
+C:\Users\joris\Documents\Visual Studio 2019\Projects\TournamentApp\TournamentUI\obj\Debug\TournamentUI.csproj.CoreCompileInputs.cache
+C:\Users\joris\Documents\Visual Studio 2019\Projects\TournamentApp\TournamentUI\obj\Debug\TournamentUI.csproj.CopyComplete
+C:\Users\joris\Documents\Visual Studio 2019\Projects\TournamentApp\TournamentUI\obj\Debug\TournamentUI.exe
+C:\Users\joris\Documents\Visual Studio 2019\Projects\TournamentApp\TournamentUI\obj\Debug\TournamentUI.pdb
+C:\Users\joris\Documents\NOVI\Software Development Praktijk 4\TournamentApp\TournamentUI\bin\Debug\TournamentUI.exe.config
+C:\Users\joris\Documents\NOVI\Software Development Praktijk 4\TournamentApp\TournamentUI\bin\Debug\TournamentUI.exe
+C:\Users\joris\Documents\NOVI\Software Development Praktijk 4\TournamentApp\TournamentUI\bin\Debug\TournamentUI.pdb
+C:\Users\joris\Documents\NOVI\Software Development Praktijk 4\TournamentApp\TournamentUI\bin\Debug\Dapper.dll
+C:\Users\joris\Documents\NOVI\Software Development Praktijk 4\TournamentApp\TournamentUI\bin\Debug\Microsoft.IdentityModel.Logging.dll
+C:\Users\joris\Documents\NOVI\Software Development Praktijk 4\TournamentApp\TournamentUI\bin\Debug\Microsoft.IdentityModel.Tokens.dll
+C:\Users\joris\Documents\NOVI\Software Development Praktijk 4\TournamentApp\TournamentUI\bin\Debug\Newtonsoft.Json.dll
+C:\Users\joris\Documents\NOVI\Software Development Praktijk 4\TournamentApp\TournamentUI\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\joris\Documents\NOVI\Software Development Praktijk 4\TournamentApp\TournamentUI\bin\Debug\System.Data.SqlClient.dll
+C:\Users\joris\Documents\NOVI\Software Development Praktijk 4\TournamentApp\TournamentUI\bin\Debug\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\joris\Documents\NOVI\Software Development Praktijk 4\TournamentApp\TournamentUI\bin\Debug\System.Security.AccessControl.dll
+C:\Users\joris\Documents\NOVI\Software Development Praktijk 4\TournamentApp\TournamentUI\bin\Debug\System.Security.Permissions.dll
+C:\Users\joris\Documents\NOVI\Software Development Praktijk 4\TournamentApp\TournamentUI\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\joris\Documents\NOVI\Software Development Praktijk 4\TournamentApp\TournamentUI\bin\Debug\TournamentLibrary.dll
+C:\Users\joris\Documents\NOVI\Software Development Praktijk 4\TournamentApp\TournamentUI\bin\Debug\Twilio.dll
+C:\Users\joris\Documents\NOVI\Software Development Praktijk 4\TournamentApp\TournamentUI\bin\Debug\TournamentLibrary.pdb
+C:\Users\joris\Documents\NOVI\Software Development Praktijk 4\TournamentApp\TournamentUI\bin\Debug\Dapper.xml
+C:\Users\joris\Documents\NOVI\Software Development Praktijk 4\TournamentApp\TournamentUI\bin\Debug\Microsoft.IdentityModel.Tokens.xml
+C:\Users\joris\Documents\NOVI\Software Development Praktijk 4\TournamentApp\TournamentUI\bin\Debug\Newtonsoft.Json.xml
+C:\Users\joris\Documents\NOVI\Software Development Praktijk 4\TournamentApp\TournamentUI\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\joris\Documents\NOVI\Software Development Praktijk 4\TournamentApp\TournamentUI\bin\Debug\System.Data.SqlClient.xml
+C:\Users\joris\Documents\NOVI\Software Development Praktijk 4\TournamentApp\TournamentUI\bin\Debug\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\joris\Documents\NOVI\Software Development Praktijk 4\TournamentApp\TournamentUI\bin\Debug\System.Security.AccessControl.xml
+C:\Users\joris\Documents\NOVI\Software Development Praktijk 4\TournamentApp\TournamentUI\bin\Debug\System.Security.Permissions.xml
+C:\Users\joris\Documents\NOVI\Software Development Praktijk 4\TournamentApp\TournamentUI\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\joris\Documents\NOVI\Software Development Praktijk 4\TournamentApp\TournamentUI\bin\Debug\Twilio.xml
+C:\Users\joris\Documents\NOVI\Software Development Praktijk 4\TournamentApp\TournamentUI\obj\Debug\TournamentUI.csproj.AssemblyReference.cache
+C:\Users\joris\Documents\NOVI\Software Development Praktijk 4\TournamentApp\TournamentUI\obj\Debug\TournamentUI.CreatePrizeForm.resources
+C:\Users\joris\Documents\NOVI\Software Development Praktijk 4\TournamentApp\TournamentUI\obj\Debug\TournamentUI.CreateTeamForm.resources
+C:\Users\joris\Documents\NOVI\Software Development Praktijk 4\TournamentApp\TournamentUI\obj\Debug\TournamentUI.CreateTournamentForm.resources
+C:\Users\joris\Documents\NOVI\Software Development Praktijk 4\TournamentApp\TournamentUI\obj\Debug\TournamentUI.Properties.Resources.resources
+C:\Users\joris\Documents\NOVI\Software Development Praktijk 4\TournamentApp\TournamentUI\obj\Debug\TournamentUI.TournamentDashboardForm.resources
+C:\Users\joris\Documents\NOVI\Software Development Praktijk 4\TournamentApp\TournamentUI\obj\Debug\TournamentUI.TournamentViewerForm.resources
+C:\Users\joris\Documents\NOVI\Software Development Praktijk 4\TournamentApp\TournamentUI\obj\Debug\TournamentUI.csproj.GenerateResource.cache
+C:\Users\joris\Documents\NOVI\Software Development Praktijk 4\TournamentApp\TournamentUI\obj\Debug\TournamentUI.csproj.CoreCompileInputs.cache
+C:\Users\joris\Documents\NOVI\Software Development Praktijk 4\TournamentApp\TournamentUI\obj\Debug\TournamentUI.csproj.CopyComplete
+C:\Users\joris\Documents\NOVI\Software Development Praktijk 4\TournamentApp\TournamentUI\obj\Debug\TournamentUI.exe
+C:\Users\joris\Documents\NOVI\Software Development Praktijk 4\TournamentApp\TournamentUI\obj\Debug\TournamentUI.pdb

@@ -1,0 +1,18 @@
+C:\Users\joris\Documents\Visual Studio 2019\Projects\TournamentApp\TournamentLibrary\bin\Debug\netstandard2.0\TournamentLibrary.deps.json
+C:\Users\joris\Documents\Visual Studio 2019\Projects\TournamentApp\TournamentLibrary\bin\Debug\netstandard2.0\TournamentLibrary.dll
+C:\Users\joris\Documents\Visual Studio 2019\Projects\TournamentApp\TournamentLibrary\bin\Debug\netstandard2.0\TournamentLibrary.pdb
+C:\Users\joris\Documents\Visual Studio 2019\Projects\TournamentApp\TournamentLibrary\obj\Debug\netstandard2.0\TournamentLibrary.AssemblyInfoInputs.cache
+C:\Users\joris\Documents\Visual Studio 2019\Projects\TournamentApp\TournamentLibrary\obj\Debug\netstandard2.0\TournamentLibrary.AssemblyInfo.cs
+C:\Users\joris\Documents\Visual Studio 2019\Projects\TournamentApp\TournamentLibrary\obj\Debug\netstandard2.0\TournamentLibrary.csproj.CoreCompileInputs.cache
+C:\Users\joris\Documents\Visual Studio 2019\Projects\TournamentApp\TournamentLibrary\obj\Debug\netstandard2.0\TournamentLibrary.dll
+C:\Users\joris\Documents\Visual Studio 2019\Projects\TournamentApp\TournamentLibrary\obj\Debug\netstandard2.0\TournamentLibrary.pdb
+C:\Users\joris\Documents\Visual Studio 2019\Projects\TournamentApp\TournamentLibrary\obj\Debug\netstandard2.0\TournamentLibrary.csproj.AssemblyReference.cache
+C:\Users\joris\Documents\NOVI\Software Development Praktijk 4\TournamentApp\TournamentLibrary\bin\Debug\netstandard2.0\TournamentLibrary.deps.json
+C:\Users\joris\Documents\NOVI\Software Development Praktijk 4\TournamentApp\TournamentLibrary\bin\Debug\netstandard2.0\TournamentLibrary.dll
+C:\Users\joris\Documents\NOVI\Software Development Praktijk 4\TournamentApp\TournamentLibrary\bin\Debug\netstandard2.0\TournamentLibrary.pdb
+C:\Users\joris\Documents\NOVI\Software Development Praktijk 4\TournamentApp\TournamentLibrary\obj\Debug\netstandard2.0\TournamentLibrary.csproj.AssemblyReference.cache
+C:\Users\joris\Documents\NOVI\Software Development Praktijk 4\TournamentApp\TournamentLibrary\obj\Debug\netstandard2.0\TournamentLibrary.AssemblyInfoInputs.cache
+C:\Users\joris\Documents\NOVI\Software Development Praktijk 4\TournamentApp\TournamentLibrary\obj\Debug\netstandard2.0\TournamentLibrary.AssemblyInfo.cs
+C:\Users\joris\Documents\NOVI\Software Development Praktijk 4\TournamentApp\TournamentLibrary\obj\Debug\netstandard2.0\TournamentLibrary.csproj.CoreCompileInputs.cache
+C:\Users\joris\Documents\NOVI\Software Development Praktijk 4\TournamentApp\TournamentLibrary\obj\Debug\netstandard2.0\TournamentLibrary.dll
+C:\Users\joris\Documents\NOVI\Software Development Praktijk 4\TournamentApp\TournamentLibrary\obj\Debug\netstandard2.0\TournamentLibrary.pdb
